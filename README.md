@@ -68,4 +68,4 @@ This dashboard helps decision-makers:
 * Support strategic business and marketing decisions using data.
 
 ### Screenshot/ Demos 
-![Dashboard Preview]
+![Dashboard Preview](https://github.com/Baibhavraj062/Electronics-Retailer-Dashboard/blob/main/snapshot%20of%20dashboard%201.png)
