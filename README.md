@@ -1,8 +1,8 @@
-# Store Sales Analysis Dashboard | Power BI
+# Electronics Retailer Dashboard | Power BI
 
 ## 1. Project Title / Headline
 
-**Store Sales Analysis Dashboard – Product Performance, Profitability & Sales Trend Analysis using Power BI**
+**Electronic Retailer  Dashboard – Product Performance, Profitability & Sales Trend Analysis using Power BI**
 
 ## 2. Short Description / Purpose
 
@@ -12,11 +12,11 @@ The analysis focuses on identifying top and bottom-performing products, understa
 
 ## 3. Tech Stack
 
-📊 **Power BI Desktop** – Dashboard Development & Visualization
-🔄**Power Query** – Data Cleaning & Transformation
-🧮 **DAX (Data Analysis Expressions)** – KPI and Measure Creation
-🗄️ **Data Modeling** – Star Schema Implementation
-📑 **Microsoft Excel** – Data Source Handling
+* **Power BI Desktop** – Dashboard Development & Visualization
+* **Power Query** – Data Cleaning & Transformation
+* **DAX (Data Analysis Expressions)** – KPI and Measure Creation
+* **Data Modeling** – Star Schema Implementation
+* **Microsoft Excel** – Data Source Handling
 
 ## 4. Data Source
 
@@ -66,3 +66,6 @@ This dashboard helps decision-makers:
 * Understand the impact of discounts on sales and profit.
 * Analyze city-wise sales performance.
 * Support strategic business and marketing decisions using data.
+
+### Screenshot/ Demos 
+![Dashboard Preview]
